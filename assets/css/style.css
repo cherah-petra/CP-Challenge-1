@@ -1,3 +1,4 @@
+/* Global Styles */
 
 * {
     box-sizing: border-box;
@@ -40,6 +41,7 @@ h4 {
     font-size: 20px;
 }
 
+/* Header & Navigation */
 
 header {
     padding: 20px;
@@ -63,6 +65,7 @@ header {
 }
 
 
+/* Hero Banner */
 
 #hero {
     height: 800px;
@@ -73,6 +76,7 @@ header {
     background-position: center;
 }
 
+/* Images and Content Sections */
 
 .float-left {
     float: left;
@@ -127,6 +131,7 @@ article img {
     max-width: 150px;
 }
 
+/* Footer */
 
 footer {
     padding: 30px;
