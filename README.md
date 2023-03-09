@@ -18,7 +18,7 @@ File can be downloaded and used to gain inside into refactoring code and applyin
 
 ## Credits
 
-Horiseon Original Source Code
+urban-octo-telegram (Original Source Code)
 
 ## License
 
