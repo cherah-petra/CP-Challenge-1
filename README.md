@@ -22,6 +22,7 @@ Horiseon Original Source Code
 
 ## License
 
-GitHub repository URL: https://github.com/cherah-petra/CP-Horiseon-Refactoring-Challenge-01
-License: 
+- GitHub repository URL: https://github.com/cherah-petra/CP-Horiseon-Refactoring-Challenge-01
+- License: license.txt
+
 
