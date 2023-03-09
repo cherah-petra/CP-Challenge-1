@@ -14,9 +14,7 @@ Developed a codebase that follows accessibility standards to ensure that it is a
 
 File can be downloaded and used to gain inside into refactoring code and applying accessibility standards. 
 
-    ```md
-    ![Site Screenshot](assets/images/Horeiseon-Marketing-Consulting-Screenshot.jpg)
-    ```
+![Horizeon Site Screenshot](assets/images/Horeiseon-Marketing-Consulting-Screenshot.jpg)
 
 ## Credits
 
